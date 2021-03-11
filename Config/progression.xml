@@ -1,0 +1,5 @@
+<config>
+    <!-- NOTE: handlebars are still required in augur and chainsaw recipies -->
+    <!-- replace with default, except leave out vehicleBicycleChassis -->
+    <setattribute xpath="/progression/perks/perk[@name='perkGreaseMonkey']/effect_group/passive_effect[@level='1,5']" name="tags">vehicleWheels,vehicleBicycleHandlebars</setattribute>
+</config>

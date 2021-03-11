@@ -1,0 +1,5 @@
+<config>
+    <!-- NOTE: handlebars are still required in augur and chainsaw recipies -->
+    <remove xpath="/lootcontainers/lootgroup[@name='schematicsVehiclesT0']/item[@name='vehicleBicycleChassisSchematic']"/>
+    <remove xpath="/lootcontainers/lootgroup[@name='bicycleParts']/item[@name='vehicleBicycleChassis']"/>
+</config>
