@@ -1,0 +1,2 @@
+Key,File,Type,English
+perkGreaseMonkeyRank1LongDesc,progression,perk Int,"Your passion to tinker and not walk everywhere has led you on the path of the vehicle mechanic. Can craft bicycle handlebars (for use in motor tools). Craft wheels and bicycle handlebars 33% cheaper."

@@ -2,11 +2,12 @@
 Hate the Bicycle? Now you don't have to see it anymore.
 
 ## Changes
-- prevent Bicycle or Bicycle Chassis from appearing in loot or trader inventory
-- prevent Bicycle Chassis Schemaitc from appearing in loot or trader inventory
-- remove Bicycle Chassis as a learnable recipe from the Grease Monkey skill
+1. prevent Bicycle or Bicycle Chassis from appearing in loot or trader inventory
+1. prevent Bicycle Chassis Schemaitc from appearing in loot or trader inventory
+1. remove Bicycle Chassis as a learnable recipe from the Grease Monkey skill
+    - adjust the English description for `Grease Monkey Rank 1` to reflect changes
 
 ## Notes
 - Bicycle Handlebars (and schematics) are left in-tact since they are still necessary for crafting the Augor and Chainsaw tools
 - Admins can still spawn, use, and/or give Bicycles to players
-- Did not update `Localization.txt` and there may be some virtue in doing so, but I didn't want to struggle with different translations and left it alone for now
+- Did not update non-English descriptions for `Grease Monkey Rank 1` since I don't have a high level of confidence in my understanding of other languages and didn't want to butcher them
